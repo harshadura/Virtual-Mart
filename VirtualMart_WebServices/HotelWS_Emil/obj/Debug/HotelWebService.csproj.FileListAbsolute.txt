@@ -1,0 +1,10 @@
+C:\Users\Vaio\Desktop\webservice\HotelWebService\HotelWebService\bin\HotelWebService.dll
+C:\Users\Vaio\Desktop\webservice\HotelWebService\HotelWebService\bin\HotelWebService.pdb
+C:\Users\Vaio\Desktop\webservice\HotelWebService\HotelWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vaio\Desktop\webservice\HotelWebService\HotelWebService\obj\Debug\HotelWebService.dll
+C:\Users\Vaio\Desktop\webservice\HotelWebService\HotelWebService\obj\Debug\HotelWebService.pdb
+C:\Users\harshadura\Desktop\fwdhotelwebserviceandhotelinterface\Hotel webservice\webservice\HotelWebService\HotelWebService\bin\HotelWebService.dll
+C:\Users\harshadura\Desktop\fwdhotelwebserviceandhotelinterface\Hotel webservice\webservice\HotelWebService\HotelWebService\bin\HotelWebService.pdb
+C:\Users\harshadura\Desktop\fwdhotelwebserviceandhotelinterface\Hotel webservice\webservice\HotelWebService\HotelWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\harshadura\Desktop\fwdhotelwebserviceandhotelinterface\Hotel webservice\webservice\HotelWebService\HotelWebService\obj\Debug\HotelWebService.dll
+C:\Users\harshadura\Desktop\fwdhotelwebserviceandhotelinterface\Hotel webservice\webservice\HotelWebService\HotelWebService\obj\Debug\HotelWebService.pdb

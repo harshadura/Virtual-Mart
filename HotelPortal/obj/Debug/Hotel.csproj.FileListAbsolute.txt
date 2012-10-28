@@ -1,0 +1,10 @@
+C:\Users\Vaio\Desktop\webapplication\Hotel\Hotel\bin\Hotel.dll
+C:\Users\Vaio\Desktop\webapplication\Hotel\Hotel\bin\Hotel.pdb
+C:\Users\Vaio\Desktop\webapplication\Hotel\Hotel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vaio\Desktop\webapplication\Hotel\Hotel\obj\Debug\Hotel.dll
+C:\Users\Vaio\Desktop\webapplication\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\Vaio\Desktop\webapplication1\Hotel\Hotel\bin\Hotel.dll
+C:\Users\Vaio\Desktop\webapplication1\Hotel\Hotel\bin\Hotel.pdb
+C:\Users\Vaio\Desktop\webapplication1\Hotel\Hotel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vaio\Desktop\webapplication1\Hotel\Hotel\obj\Debug\Hotel.dll
+C:\Users\Vaio\Desktop\webapplication1\Hotel\Hotel\obj\Debug\Hotel.pdb
