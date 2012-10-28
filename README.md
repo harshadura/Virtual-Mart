@@ -2,7 +2,7 @@
             README
 Virtual Mart-Reservation Agent Portal
 -------------------------------------
-![ScreenShot](https://raw.github.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+![ScreenShot](http://4.bp.blogspot.com/-ed99-A0c1DI/UI3D2vSROMI/AAAAAAAABUw/jIt--lhV1u0/s1600/Untitled33.png)
 Released Under MIT Licence 2012 Harsha Siriwardena
 
 @authors: harshadura, chathu
