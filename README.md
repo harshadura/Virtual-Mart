@@ -1,8 +1,5 @@
-            README
-            ------
-            
-Virtual Mart-Reservation Agent Portal
--------------------------------------
+README: Virtual Mart-Reservation Agent Portal
+---------------------------------------------
 
 ![ScreenShot](http://4.bp.blogspot.com/-ed99-A0c1DI/UI3D2vSROMI/AAAAAAAABUw/jIt--lhV1u0/s1600/Untitled33.png)
 
