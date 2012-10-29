@@ -29,7 +29,9 @@ Released Under MIT Licence 2012 Harsha Siriwardena
 Prequisities.
 -------------
 .NET Framework 3.5
+
 MS Visual Studio 2008
+
 MS Access
 
 Notes.
