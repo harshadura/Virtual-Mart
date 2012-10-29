@@ -34,8 +34,9 @@ MS Access
 
 Notes.
 ------
-This project consist with 3 C# SOAP Web Services with 4 ASP.NET Web Portals.
-So first run the Web services and then try running Web portals.
+This project consist with 3 C# SOAP Web Services with 4 ASP.NET Web Portals. 
+Web Portals are depending on the Web Services. 
+So first have to run all the required Web services and then run Web portals.
 _______________
 2012-October-28 
 This Project has been done for a partial fullfillment of Distributed Component Based Software Development Subject.
